@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Nagarro.BookReading.Web.Models.CommentViewModel>
+@{
+    ViewData["Title"] = "Fetch Comment";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.comment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.timeStamp)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>
+                    @Html.DisplayFor(modelItem => item.comment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.timeStamp)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

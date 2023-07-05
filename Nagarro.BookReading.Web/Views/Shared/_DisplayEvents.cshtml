@@ -1,0 +1,41 @@
+﻿@model IList<Nagarro.BookReading.Web.Models.EventViewModel>
+
+<div class="container">
+    <div class="container">
+        <h3 class="text-success">Future Events</h3>
+        <hr class="border-dark" />
+        <p></p>
+        <p></p>
+        <div class="row">
+
+            @foreach (var _event in Model)
+            {
+                if (_event.date > DateTime.Now)
+                {
+                    <partial name="_NewestEventFirst" model="@_event" />
+                }
+              
+            }
+
+        </div>
+    </div>
+    <div class="container">
+        <h3 class="text-success">Past Events</h3>
+        <hr class="border-dark" />
+        <p></p>
+        <p></p>
+        <div class="row">
+
+            @foreach (var _event in Model)
+            {
+                if (_event.date < DateTime.Now)
+                {
+                    <partial name="_NewestEventFirst" model="@_event" />
+                }
+
+            }
+
+        </div>
+    </div>
+
+</div>

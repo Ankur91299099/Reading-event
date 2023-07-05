@@ -1,0 +1,34 @@
+﻿@model Nagarro.BookReading.Web.Models.CommentViewModel
+
+@{
+    ViewData["Title"] = "Post Comment";
+}
+
+<h1>PostComment</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PostComment">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EventId" class="control-label"></label>
+                <input asp-for="EventId" class="form-control" />
+                <span asp-validation-for="EventId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="comment" class="control-label"></label>
+                <input asp-for="comment" class="form-control" />
+                <span asp-validation-for="comment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="timeStamp" class="control-label"></label>
+                <input asp-for="timeStamp" class="form-control" />
+                <span asp-validation-for="timeStamp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

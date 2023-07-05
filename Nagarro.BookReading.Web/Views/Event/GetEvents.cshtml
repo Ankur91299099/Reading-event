@@ -1,0 +1,113 @@
+﻿@model IList<Nagarro.BookReading.Web.Models.EventViewModel>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+@{ 
+    var user = await _userManager.GetUserAsync(User);
+    var email = user!= null ? user.Email : "";
+
+}
+@{ ViewData["Title"] = "Index"; }
+<div class="container">
+    @if (Model.Count == 0)
+    {
+        <div>
+            <h4 class="text-info">No Events to display</h4>
+        </div>
+    }
+    else
+    {
+        <p></p>
+        <p></p>
+        @if (email == "myadmin@bookevents.com")
+        {
+            <h2 class="text-primary">All Events</h2>
+            <hr class="border-dark" />
+            <div class="row">
+                @foreach (var _event in Model)
+                {
+                    <partial name="_NewestEventFirst" model="@_event" />
+                }
+            </div>
+
+        }
+        else
+        {
+            <h2 class="text-primary">All public Events</h2>
+            <hr class="border-dark" />
+            <div class="row">
+                @foreach (var _event in Model)
+                {
+                    @if (_event.eventType == "Public")
+                    {
+                        <partial name="_NewestEventFirst" model="@_event" />
+                    }
+
+
+                }
+            </div>
+        }
+
+
+        @if (_signInManager.IsSignedIn(User))
+        {
+
+            @if (email != "myadmin@bookevents.com")
+            {
+                <div class="container">
+                    <div class="container">
+                        <p></p>
+                        
+                       
+                        <hr class="border-dark" />
+                        <p></p>
+                        <p></p>
+                        <div class="row">
+
+                            @foreach (var _event in Model)
+                            {
+                                if (@_event.invitees != null)  //Added by me
+                                {
+                                    if (@_event.invitees.Split(',').Contains(email) && _event.eventType == "Private" && _event.date > DateTime.Now)
+                                    {
+
+                                    <partial name="_NewestEventFirst" model="@_event" />
+                                    }
+                                }
+
+                            }
+
+                        </div>
+                    </div>
+                    <div class="container">
+                        <h3 class="text-success">Past Events</h3>
+                        <hr class="border-dark" />
+                        <p></p>
+                        <p></p>
+                        <div class="row">
+
+                            @foreach (var _event in Model)
+                            {
+                                if (@_event.invitees != null)      //Added by me
+                                {
+                                    if (@_event.invitees.Split(',').Contains(email) && _event.eventType == "Private" && _event.date < DateTime.Now)
+                                    {
+
+                                    <partial name="_NewestEventFirst" model="@_event" />
+                                    }
+                                }
+                            }
+
+                        </div>
+                    </div>
+
+                </div>
+            }
+
+        }
+
+
+    }
+
+</div>
+

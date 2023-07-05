@@ -1,0 +1,10 @@
+﻿@model Nagarro.BookReading.Web.Models.EventViewModel
+
+@if (@Model.startTime < DateTime.Now)
+{
+<partial name="_EventDetails" model="@Model" />
+}
+else
+{
+<partial name="_EventDetails" model="@Model" />
+}

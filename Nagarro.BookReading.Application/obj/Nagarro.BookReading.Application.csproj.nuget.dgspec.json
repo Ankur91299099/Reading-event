@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Application\\Nagarro.BookReading.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Application\\Nagarro.BookReading.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Application\\Nagarro.BookReading.Application.csproj",
+        "projectName": "Nagarro.BookReading.Application",
+        "projectPath": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Application\\Nagarro.BookReading.Application.csproj",
+        "packagesPath": "C:\\Users\\ankurchauhan01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ankurchauhan01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\Nagarro.BookReading.Core.csproj": {
+                "projectPath": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\Nagarro.BookReading.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\Nagarro.BookReading.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\Nagarro.BookReading.Core.csproj",
+        "projectName": "Nagarro.BookReading.Core",
+        "projectPath": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\Nagarro.BookReading.Core.csproj",
+        "packagesPath": "C:\\Users\\ankurchauhan01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ankurchauhan01\\Desktop\\MVC_Assignment-1\\MVC_Assignment\\Nagarro.BookReading.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ankurchauhan01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

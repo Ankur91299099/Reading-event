@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nagarro.BookReading.Web", "Nagarro.BookReading.Web.csproj", "{625817E3-2D67-41AC-9686-4D5B62A143D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nagarro.BookReading.Application", "..\Nagarro.BookReading.Application\Nagarro.BookReading.Application.csproj", "{1D268F42-3C45-4164-A6FD-C747BB7E7078}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nagarro.BookReading.Core", "..\Nagarro.BookReading.Core\Nagarro.BookReading.Core.csproj", "{BA789B68-280D-4E64-BBE8-12622DDFED82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nagarro.BookReading.Infrastructure", "..\Nagarro.BookReading.Infrastructure\Nagarro.BookReading.Infrastructure.csproj", "{96DB04CB-C0C3-4F12-8645-8A8FF0764E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.BookReading.UnitTests", "..\Nagarro.BookReading.UnitTests\Nagarro.BookReading.UnitTests.csproj", "{F29F2108-C947-4491-BADA-953BD7940161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625817E3-2D67-41AC-9686-4D5B62A143D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625817E3-2D67-41AC-9686-4D5B62A143D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625817E3-2D67-41AC-9686-4D5B62A143D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625817E3-2D67-41AC-9686-4D5B62A143D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D268F42-3C45-4164-A6FD-C747BB7E7078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D268F42-3C45-4164-A6FD-C747BB7E7078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D268F42-3C45-4164-A6FD-C747BB7E7078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D268F42-3C45-4164-A6FD-C747BB7E7078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA789B68-280D-4E64-BBE8-12622DDFED82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA789B68-280D-4E64-BBE8-12622DDFED82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA789B68-280D-4E64-BBE8-12622DDFED82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA789B68-280D-4E64-BBE8-12622DDFED82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DB04CB-C0C3-4F12-8645-8A8FF0764E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DB04CB-C0C3-4F12-8645-8A8FF0764E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DB04CB-C0C3-4F12-8645-8A8FF0764E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DB04CB-C0C3-4F12-8645-8A8FF0764E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29F2108-C947-4491-BADA-953BD7940161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29F2108-C947-4491-BADA-953BD7940161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29F2108-C947-4491-BADA-953BD7940161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29F2108-C947-4491-BADA-953BD7940161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F29EC42-4186-419E-A0BF-4A6B21E9C6EA}
+	EndGlobalSection
+EndGlobal

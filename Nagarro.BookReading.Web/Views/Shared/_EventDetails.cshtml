@@ -1,0 +1,31 @@
+﻿@model Nagarro.BookReading.Web.Models.EventViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+@{
+    var user = await _userManager.GetUserAsync(User);
+    var email = user != null ? user.Email : "";
+
+}
+
+<div class="col-md-4">
+    <div class="card mb-4 shadow-sm" style="width: 18rem;">
+        <div class="card-body">
+            <div class="card-title">
+                <h4><a asp-action="ViewDetails" asp-controller="Event" asp-route-id="@Model.Id"> @Model.title </a></h4>
+            </div>
+            
+            @if (_signInManager.IsSignedIn(User) && (User.Identity.Name == Model.organiser || email== "myadmin@bookevents.com") && Model.date >= DateTime.Now)
+            {
+                <p></p>
+                <div class="btn-group">
+                    <a asp-action="UpdateEvent" asp-route-id="@Model.Id" asp-controller="Event" class="btn btn-sm btn-outline-primary">Update Details</a>
+                </div>
+                <p></p>
+            }
+
+
+
+        </div>
+    </div>
+</div>

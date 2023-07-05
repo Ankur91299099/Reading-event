@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="NagarroBookReadingWeb20210129164237" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Nagarro\ Training\\Assignments\\5-ASP\.NET\ Core\ Assignment\ -\ Main\\Nagarro\.BookReading\.Web\\obj\\Release\\net5\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Nagarro.BookReading.Infrastructure.Data.EventContext" description="" value="Data Source=tcp:nagarrobookreadingwebdbserver.database.windows.net,1433;Initial Catalog=Nagarro.BookReading.Web_db;User Id=vaarigupta@nagarrobookreadingwebdbserver;Password=Event@123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Nagarro\ Training\\Assignments\\5-ASP\.NET\ Core\ Assignment\ -\ Main\\Nagarro\.BookReading\.Web\\obj\\Release\\net5\.0\\win-x86\\PubTmp\\EFSQLScripts\\Nagarro\.BookReading\.Infrastructure\.Data\.EventContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,12 @@
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Release\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Release\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Release\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Release\netcoreapp3.1\Nagarro.BookReading.Core.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Release\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.csprojAssemblyReference.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Release\netcoreapp3.1\Nagarro.BookReading.Application.pdb

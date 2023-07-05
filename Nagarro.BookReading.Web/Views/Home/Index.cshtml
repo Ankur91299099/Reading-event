@@ -1,0 +1,81 @@
+﻿@model IList<Nagarro.BookReading.Web.Models.EventViewModel>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    var user = await _userManager.GetUserAsync(User);
+    var email = user != null ? user.Email : "";
+
+}
+<div class="container">
+    <div class="text-center">
+        <div class="row">
+            <div class="col-md-6">
+                <h4><a class="text-dark " href="#previousEvents"> Past Events</a></h4>
+                <div class="row" id="previousEvents">
+                    @if (email == "myadmin@bookevents.com")
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.date < DateTime.Now)
+                            {
+                                <partial name="_EventDetailsIndexPage" model="@_event" />
+
+                            }
+
+                        }
+                    }
+                    else
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.date < DateTime.Now && _event.eventType.Equals("Public"))
+                            {
+                                <partial name="_EventDetailsIndexPage" model="@_event" />
+
+                            }
+
+                        }
+                    }
+
+                </div>
+
+            </div>
+            <div class="col-md-6">
+                <h4><a class="text-dark " href="#upcomingEvents">Future Events</a></h4>
+                <div class="row" id="upcomingEvents">
+                    @if (email == "myadmin@bookevents.com")
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.date > DateTime.Now)
+                            {
+                                <partial name="_EventDetailsIndexPage" model="@_event" />
+
+                            }
+
+                        }
+                    }
+                    else
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.date > DateTime.Now && _event.eventType.Equals("Public"))
+                            {
+                                <partial name="_EventDetailsIndexPage" model="@_event" />
+
+                            }
+
+                        }
+                    }
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,100 @@
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\vaarigupta\source\repos\Assignments\Try\CORE with MVC\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csprojAssemblyReference.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Nagarro Training\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csprojAssemblyReference.cache
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+D:\Practice\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.AssemblyReference.cache
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\shikhajain01\Desktop\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.AssemblyReference.cache
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankurchauhan01\Desktop\MVC Assignment core\MVC Assignment\Book-Reading-Event\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.AssemblyReference.cache
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankitsingh13\Desktop\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.deps.json
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.AssemblyReference.cache
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfoInputs.cache
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.AssemblyInfo.cs
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CoreCompileInputs.cache
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.csproj.CopyComplete
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.dll
+C:\Users\ankurchauhan01\Desktop\MVC_Assignment-1\MVC_Assignment\Nagarro.BookReading.Application\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Application.pdb
